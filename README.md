@@ -37,7 +37,7 @@ J'appelle cette variante la "oblique aléatoire". Cela donne donc, sur le cercle
 
 ![proba à plateau](cercle_probas.png)
 
-Le paramètre le plus influent est en fait le taux d’apprentissage ALPHA, qu'on a optimisé selon deux critères: le nombre d'itérations médian et le taux de convergence. Ce tableau est généré à partir de 2500 itérations à chaque fois (en abscisse le taux ALPHA):
+Le paramètre le plus influent est en fait le taux d’apprentissage ALPHA, qu'on a optimisé selon deux critères: le nombre d'itérations médian et le taux de convergence. Ce tableau est généré à partir de 2500 itérations à chaque fois (en abscisse le taux ALPHA, qui est le facteur de décroissance du pas à chaque fois qu'on va dans la mauvaise direction):
 
 ![resultats de l'optimisation](convergences.png)
 
