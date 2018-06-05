@@ -63,6 +63,6 @@ Le meilleur algorithme semble être l’orthogonal pur. On pourrait bien entendu
  
 Et en bonus, l’application au *petit chaperon rouge* :
 
-![mere-grand](output_XSOtjR)
+![mere-grand](output_XSOtjR.gif)
 
 
