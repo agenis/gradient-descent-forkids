@@ -60,7 +60,7 @@ Etant donné un point cible, on peut égalemnet traçer la densité des trajets 
 Le meilleur algorithme semble être l’orthogonal pur. On pourrait bien entendu le complexifier en ajoutant de la mémoire (quelles zones du plan ont déjà été explorées, faire varier le step de facon dynamique, privilégier les directions où j’ai peu tourné jusqu’à présent, etc.)
  N’hésitez pas à me faire des retours sur marc.agenis@gmail.com
  
-Et en bonus, l’application au *petit chaperon rouge* :
+Et en bonus, l’application au *petit chaperon rouge* : saurez-vous dire quelle version de l'algorithme suit le chaperon rouge, et quelle version suit le loup? ;-)
 
 ![mere-grand](output_XSOtjR.gif)
 
