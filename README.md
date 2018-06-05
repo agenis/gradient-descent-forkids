@@ -53,8 +53,7 @@ Les performances des différentes stratégies sont résumées ici (note: On ne p
 
 Etant donné un point cible, on peut égalemnet traçer la densité des trajets de ces deux algorithmes (qui ont un comportemnet très différent en fait, mais des performances assez proches):
 
-![titre1](espace_manhattan_1000points.png)
-![titre2](espace_oblique_1000points.png)
+![titre1](espaces_small.png)
 
 ## Conclusions :
 
