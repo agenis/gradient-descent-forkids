@@ -45,7 +45,7 @@ Les performances des différentes stratégies sont résumées ici (note: On ne p
 
 | indicateur                 | Orthogonal ou marche arrière | Oblique aléatoire | Orthogonal pur |
 |----------------------------|------------------------------|-------------------|----------------|
-| Nb iterations médian       | 48                           | 47                | 16             |
+| Nb iterations médian       | 48                           | 47                | 46             |
 | Taux convergence           | 99.9%                        | 100%              | 100%           |
 | Taux apprentissage optimum | 0.8                          | 0.95              | 0.8            |
 
